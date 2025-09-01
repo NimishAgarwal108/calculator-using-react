@@ -1,0 +1,17 @@
+.calculator{
+  border:1px solid rgb(79, 76, 76);
+  width:200px;
+  border-radius: 5px;
+  background-color: black;
+}
+.title{
+  color: white;                  
+  font-size: 24px;          
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  margin-bottom: 0%;
+}
+
+
+
+

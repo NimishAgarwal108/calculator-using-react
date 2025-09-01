@@ -1,0 +1,12 @@
+.btnContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top:5px;
+}
+.btn{
+  margin:3px;
+  width:45px;
+  height: 45px;
+  background-color: silver;
+}
